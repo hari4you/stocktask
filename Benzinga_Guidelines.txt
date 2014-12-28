@@ -1,0 +1,39 @@
+Whats files what operations ?
+
+Going with Bootstrap , Since Client is open to any framework which takes less than 4 hours to complete the Task.
+
+PHP Files
+
+index.php - 
+	
+	- Normal landing page to show the user session username and other details
+	- Includes both looksupsection.php and companylisting.php
+
+looksusection.php
+
+	- Dom which is placed at the top right to search the Stock currency
+	- Easily plug and play whereever needed in future.
+
+companylisting.php
+
+	- Dom which is placed at body content to show the buy / sell UI and stock listing as per user`s login
+	- Easily plug and play whereever needed in future.
+
+Javascript Files 
+
+js/Custom.js 
+
+	- All the user logics for buying and selling the stocks
+	- Updating the Cash balance after each transcations
+	- other misc func and operations
+
+js/bootstrap.min.js 
+js/ie10-viewport-bug-workaround.js
+js/jquery.min.js
+
+	- Other Basic libs
+
+css/bootstrap.min.css
+css/non-responsive.css
+
+	- Basic CSS files	
