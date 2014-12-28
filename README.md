@@ -1,4 +1,4 @@
 stocktask
 =========
 
-Stock Task
+Portal for managing Stocks and Buy / Sell.
